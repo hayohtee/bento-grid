@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to markup HTML document semantically and also various CSS fundamentals like working with relative and absolute units with a preference for relative units for responsiveness, the box model, flex box, media queries and also CSS variables.
+I learned how to markup HTML document semantically and also various CSS fundamentals like working with relative and absolute units with a preference for relative units for responsiveness, the box model, flex box, grid, media queries and also CSS variables.
 
 ### Continued development
 
